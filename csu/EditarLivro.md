@@ -13,7 +13,7 @@ RA: 22.221.022-1
 1. O Bíbliotecário acessa o sistema
 2. O Bíbliotecário pede ao sistema uma lista dos livros cadastrados
 3. O sistema apresenta uma lista de livros cadastrados.
-4. O Bibliotecário selecioan um livro que queria editar
+4. O Bibliotecário seleciona um livro que queria editar.
 5. O sistema exibe um formulário com os dados do livro selecionado tais como: Título, Resumo, Autor, Editora, ISBN e categoria.
 6. O Bibliotecário altera as informações desejadas
 7. O sistema altera os dados inseridos 
